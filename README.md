@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yafzal
 - 👀 I’m interested in anything that could better me. 
 - 🌱 I’m currently learning web development-HTML, CSS, JAVA
-- 💞️ I’m looking to collaborate on an UNITY GAME PROJECTTT
+- 💞️ I’m looking to LEARN AS MUCH AS POSSIBLE ABOUT LINUXX
 - 📫 How to reach me-Email: Yafzal8@gmail.com
 
 <!---
